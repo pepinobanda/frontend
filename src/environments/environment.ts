@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  URL_API: "http://localhost:3000",
+  URL_API: "http://157.230.9.191:3000",
   SECRET_KEY: 'abcDE#01'
 };
 
